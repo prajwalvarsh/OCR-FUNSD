@@ -71,12 +71,4 @@ The dataset is split into training and testing sets, located in their respective
 - Form structure analysis
 - Complete text extraction from documents
 
-## License
 
-This project uses the FUNSD dataset. Please refer to the dataset's original license and citation requirements for usage terms.
-
-## Acknowledgments
-
-- FUNSD Dataset creators and contributors
-- OpenCV community
-- Python OCR community
